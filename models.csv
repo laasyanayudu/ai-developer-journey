@@ -1,0 +1,6 @@
+model,accuracy,speed,year
+BERT,94.2,120,2018
+GPT-4,97.5,340,2023
+ResNet,89.1,95,2015
+LSTM,85.3,60,2017
+XGBoost,91.7,45,2016

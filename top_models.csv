@@ -1,0 +1,4 @@
+model,accuracy,speed,year
+BERT,94.2,120,2018
+GPT-4,97.5,340,2023
+XGBoost,91.7,45,2016
