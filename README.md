@@ -23,3 +23,14 @@ My step-by-step journey learning AI development from scratch.
 **Skills learned:** scikit-learn, train/test split, cross validation,
 classification, model comparison, confusion matrix, feature importance
 
+## Phase 3 — Deep Learning & NLP ✅
+**Project: Sentiment Analysis App**
+- Analyzed 15 product reviews across 3 categories
+- Used DistilBERT for sentiment classification
+- Achieved 100% confidence on all reviews
+- Generated 4-chart visual report
+- Saved results to CSV files
+
+**Skills learned:** PyTorch, tensors, neural networks from scratch,
+Hugging Face pipelines, tokenization, BERT embeddings, fine-tuning,
+NER, text generation, zero-shot classification
