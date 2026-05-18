@@ -1,0 +1,16 @@
+product,category,review,sentiment,confidence
+iPhone 15,Electronics,Absolutely love this phone the camera is incredible,POSITIVE,100.0
+Samsung TV,Electronics,Picture quality is amazing best TV I have ever owned,POSITIVE,100.0
+Laptop Pro,Electronics,Battery dies too fast very disappointing purchase,NEGATIVE,100.0
+Headphones,Electronics,Sound quality is terrible complete waste of money,NEGATIVE,100.0
+Smart Watch,Electronics,Best gadget I have bought in years highly recommend,POSITIVE,100.0
+Python Book,Books,This book taught me programming in a clear simple way,POSITIVE,99.9
+AI Handbook,Books,Confusing explanations hard to follow not worth buying,NEGATIVE,100.0
+Data Science,Books,Excellent examples and projects helped me get a job,POSITIVE,100.0
+ML Guide,Books,Too theoretical no practical examples very boring,NEGATIVE,100.0
+Deep Learning,Books,Perfect balance of theory and practice loved it,POSITIVE,100.0
+Pizza Place,Food,Best pizza in the city fresh ingredients amazing taste,POSITIVE,100.0
+Burger Joint,Food,Cold food slow service never coming back again,NEGATIVE,99.8
+Sushi Bar,Food,Fresh fish beautiful presentation worth every penny,POSITIVE,100.0
+Taco Shop,Food,Bland tasteless food nothing special at all,NEGATIVE,100.0
+Coffee Shop,Food,Perfect coffee cozy atmosphere my favorite place,POSITIVE,100.0

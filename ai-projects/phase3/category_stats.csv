@@ -1,0 +1,4 @@
+category,total,positive,negative,positive_%,avg_confidence
+Electronics,5,3,2,60.0,100.0
+Books,5,3,2,60.0,100.0
+Food,5,3,2,60.0,100.0
